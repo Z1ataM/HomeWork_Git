@@ -36,6 +36,12 @@ header {
   border-radius: 8px;
   }
 
+.homework {
+  font-family: Lobster;
+  font-size: 50px;
+  align-content: center;
+}
+
 h2 {color: #e67e22;
   }
 
